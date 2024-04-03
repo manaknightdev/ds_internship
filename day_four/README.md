@@ -1,6 +1,6 @@
 # This project is a toy project for training and quality assurance purposes
 
-Task 3
+Task 4
 We want to test your research ability.
 
 We have 20 pictures of motherboards with memory.
